@@ -23,9 +23,7 @@ Created a free Azure subscription and logged into the portal.
 - Let attackers try to log onto machine and fail to  login.
 - Verified failed login logs in Event Viewer (Event ID 4625).
 
-![Event Viewer Failed Logins](images/event-viewer.png)
 
-![Event Viewer](images/event-viewer.png)
 ![Event Viewer](Azure_Honeypot_lab/images/event-viewer.png)
 
 
