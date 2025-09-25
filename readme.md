@@ -16,6 +16,7 @@ Created a free Azure subscription and logged into the portal.
 
 ![VM NSG Settings](/images/vm-nsg.png)
 
+
 ---
 
 ## 3. Failed Login Attempts
@@ -23,6 +24,10 @@ Created a free Azure subscription and logged into the portal.
 - Verified failed login logs in Event Viewer (Event ID 4625).
 
 ![Event Viewer Failed Logins](images/event-viewer.png)
+
+![Event Viewer](images/event-viewer.png)
+![Event Viewer](Azure_Honeypot_lab/images/event-viewer.png)
+
 
 ---
 
