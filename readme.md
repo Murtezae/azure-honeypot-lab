@@ -19,7 +19,7 @@ Created a free Azure subscription and logged into the portal.
 ---
 
 ## 3. Failed Login Attempts
-- Attempted 3 failed logins as "employee".
+- Let attackers try to log onto machine and fail to  login.
 - Verified failed login logs in Event Viewer (Event ID 4625).
 
 ![Event Viewer Failed Logins](images/event-viewer.png)
@@ -40,6 +40,7 @@ Created a free Azure subscription and logged into the portal.
 - Used KQL query to join logs with geographic data.
 
 ![KQL Query GeoIP](images/kql-query.png)
+![KQL Query GeoIP](images/kql-query2.png)
 
 ---
 
