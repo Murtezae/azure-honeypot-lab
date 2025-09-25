@@ -14,7 +14,7 @@ Created a free Azure subscription and logged into the portal.
 - Configured the NSG to allow all inbound traffic.
 - Disabled Windows Firewall.
 
-![VM NSG Settings](/images/vm-nsg.png)
+
 ![VM NSG Settings](Azure_Honeypot_lab//images/vm-nsg.png)
 
 ---
