@@ -34,7 +34,8 @@ Created a free Azure subscription and logged into the portal.
 - Connected Azure Sentinel.
 - Configured security event forwarding via AMA.
 
-![Sentinel Logs](images/sentinel-logs.png)
+
+![Sentinel Logs](Azure_Honeypot_lab/images/sentinel-logs.png)
 
 ---
 
@@ -42,8 +43,11 @@ Created a free Azure subscription and logged into the portal.
 - Imported a GeoIP watchlist (≈54,000 rows).
 - Used KQL query to join logs with geographic data.
 
-![KQL Query GeoIP](images/kql-query.png)
-![KQL Query GeoIP](images/kql-query2.png)
+
+![KQL Query GeoIP](Azure_Honeypot_lab/kql-query.png)
+![KQL Query GeoIP](Azure_Honeypot_lab/images/kql-query2.png)
+
+
 
 ---
 
@@ -51,7 +55,9 @@ Created a free Azure subscription and logged into the portal.
 - Built an Azure Sentinel Workbook using JSON.
 - Visualized attacker IPs on a live map.
 
-![Attack Map](images/attack-map.png)
+
+![Attack Map](Azure_Honeypot_lab/images/attack-map.png)
+
 
 ---
 
