@@ -44,7 +44,7 @@ Created a free Azure subscription and logged into the portal.
 - Used KQL query to join logs with geographic data.
 
 
-![KQL Query GeoIP](Azure_Honeypot_lab/kql-query.png)
+![KQL Query GeoIP](Azure_Honeypot_lab/images/kql-query.png)
 ![KQL Query GeoIP2](Azure_Honeypot_lab/images/kql-query2.png)
 
 
